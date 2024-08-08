@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="lithecore.png" alt="Lithe Logo" width="200"/>
+  <img src="../lithecore.png" alt="Lithe Logo" width="200"/>
 </p>
 
 # About Lithe
