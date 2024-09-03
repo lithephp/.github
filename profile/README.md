@@ -27,4 +27,4 @@ Lithe is ideal for developers seeking a lightweight framework that still offers 
 
 ## Learning Lithe
 
-Lithe provides clear and concise documentation, making it easy to learn and adopt. Check out our [full documentation](https://lithecore.vercel.app) to start using Lithe today!
+Lithe provides clear and concise documentation, making it easy to learn and adopt. Check out our [full documentation](https://lithephp.vercel.app) to start using Lithe today!
